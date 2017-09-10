@@ -1,0 +1,10 @@
+An implementation of the best first-search-branch and bound algorithm for the 0-1 knapsack problem. This algorithm finds the optimal solution as fast as possible. 
+
+HOW TO COMPILE:
+
+Run the command "make clean" to clear executables
+
+Run "make" to compile 
+
+Run "./BestFirstSearch input.txt output.txt" in order to run the program
+
